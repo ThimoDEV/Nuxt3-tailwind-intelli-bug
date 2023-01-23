@@ -1,0 +1,21 @@
+{
+  "tailwindCSS.experimental.configFile": ".nuxt/tailwind.config.cjs",
+  "prettier.enable": false,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "tailwindCSS.includeLanguages": {
+    "html": "html",
+    "javascript": "javascript",
+    "css": "css"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+ },
+ "css.validate": false,
+ "editor.inlineSuggest.enabled": true
+}
